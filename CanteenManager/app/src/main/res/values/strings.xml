@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CanteenManager</string>
+    <string name="add_food_item">Add Food item</string>
+    <string name="view_open_orders">View Orders</string>
+</resources>

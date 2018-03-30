@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="16dp"
+    android:paddingLeft="16dp"
+    android:paddingRight="16dp"
+    android:paddingTop="16dp"
+    android:background="@color/YellowGreen">
+
+
+
+    <!--<ImageButton
+        android:layout_width="match_parent"
+        android:layout_height="300dp"
+        android:onClick="imageButtonClicked"
+        android:id="@+id/foodImageButton"
+
+
+        /> -->
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="300dp"
+        android:onClick="imageButtonClicked"
+        android:id="@+id/foodImageButton"
+        android:background="@color/AntiqueWhite"
+        />
+    <Button
+        android:id="@+id/button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="116dp"
+        android:layout_marginStart="116dp"
+        android:onClick="btnClick"
+        android:text="Pick image from Gallery" />
+
+    <EditText
+        android:id="@+id/itemName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Enter Food Item Name"
+        android:inputType="text"
+
+        />
+
+    <EditText
+        android:id="@+id/itemDesc"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Enter Item Description"
+        android:inputType="text" />
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Enter Item Price"
+        android:id="@+id/itemPrice"
+        android:inputType="text"
+        />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="addItemButtonClicked"
+        android:text="Add Item To Menu"
+        android:visibility="visible"
+        android:background="@color/Azure"/>
+
+</LinearLayout>

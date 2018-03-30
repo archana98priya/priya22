@@ -1,0 +1,143 @@
+{
+  "project_info": {
+    "project_number": "192817671864",
+    "firebase_url": "https://canteenmanager-d5358.firebaseio.com",
+    "project_id": "canteenmanager-d5358",
+    "storage_bucket": "canteenmanager-d5358.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:192817671864:android:9c0b4dff0ade20bf",
+        "android_client_info": {
+          "package_name": "com.archanapsahoo.canteenmanagementclient"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "192817671864-gqs957lqus3i1qmf309g8cchtkolnu66.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.archanapsahoo.canteenmanagementclient",
+            "certificate_hash": "80d3a8fcf30c996a04c64df74719b6325e3c82d0"
+          }
+        },
+        {
+          "client_id": "192817671864-njcbsqakasdaamaeu0ltqndppokejt6a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6x7iFcva8zyIMLCgqqnxvhG6nYOhOVMM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "192817671864-njcbsqakasdaamaeu0ltqndppokejt6a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:192817671864:android:d07a35ed2e82cabc",
+        "android_client_info": {
+          "package_name": "com.example.archanapriya.canteenmanager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "192817671864-lse23l7emd4nsnvpqrgbi3jcdhoopehg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.archanapriya.canteenmanager",
+            "certificate_hash": "80d3a8fcf30c996a04c64df74719b6325e3c82d0"
+          }
+        },
+        {
+          "client_id": "192817671864-njcbsqakasdaamaeu0ltqndppokejt6a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6x7iFcva8zyIMLCgqqnxvhG6nYOhOVMM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "192817671864-njcbsqakasdaamaeu0ltqndppokejt6a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:192817671864:android:a96c11c790fe1d11",
+        "android_client_info": {
+          "package_name": "com.example.archanapriya.client_order"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "192817671864-1loqbahh1c6ui8p1ie1juhp5jnht5jau.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.archanapriya.client_order",
+            "certificate_hash": "80d3a8fcf30c996a04c64df74719b6325e3c82d0"
+          }
+        },
+        {
+          "client_id": "192817671864-njcbsqakasdaamaeu0ltqndppokejt6a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6x7iFcva8zyIMLCgqqnxvhG6nYOhOVMM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "192817671864-njcbsqakasdaamaeu0ltqndppokejt6a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
